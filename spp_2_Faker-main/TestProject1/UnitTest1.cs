@@ -13,6 +13,12 @@ namespace TestProject1
         private FakerConfig _config;
         private MainFaker _faker;
 
+        [TestInitialize]
+        public void Initialize()
+        {
+            _config = new FakerConfig();
+            _faker = new MainFaker(_config);
+        }       
 
         [TestMethod]
         public void Cycle()

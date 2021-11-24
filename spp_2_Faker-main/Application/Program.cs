@@ -24,7 +24,6 @@ namespace Application
             Console.WriteLine(foo.I3);
 
 
-            
             Console.WriteLine(faker.Create<NewClass>().I1);
         }
 
