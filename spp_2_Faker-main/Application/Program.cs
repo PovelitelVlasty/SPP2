@@ -16,8 +16,6 @@ namespace Application
                 Console.WriteLine(i.In);
             }
             Console.WriteLine(faker.Create<int>());
-            //Console.WriteLine(faker.Create<IList<int>>());
-            //Console.WriteLine(faker.Create<A>().GetSetB.GetSetC);
             A a = faker.Create<A>();
             Console.WriteLine(a.GetSetB.GetSetC);
             Foo foo = faker.Create<Foo>();
@@ -26,12 +24,7 @@ namespace Application
             Console.WriteLine(foo.I3);
 
 
-            var config = new FakerConfig();
-            config.Add<Auto, string, AutoGenerator>(auto => auto.Name);
-            var faker1 = new MainFaker(config);
-            Auto auto = faker1.Create<Auto>();
-            Console.WriteLine(auto.Name);
-            Console.WriteLine(auto.Cost);
+            
             Console.WriteLine(faker.Create<NewClass>().I1);
         }
 
@@ -140,14 +133,5 @@ namespace Application
     }
 
 
-    public class Auto
-    {
-        public string Name { get;}
-        public Auto(string name) 
-        { 
-            Name = name; 
-        }
-
-        public int Cost { get; set; }
-    }
+    
 }

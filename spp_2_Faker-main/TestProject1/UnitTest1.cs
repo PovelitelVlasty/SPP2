@@ -13,21 +13,6 @@ namespace TestProject1
         private FakerConfig _config;
         private MainFaker _faker;
 
-        [TestInitialize]
-        public void Initialize()
-        {
-            _config = new FakerConfig();
-            _config.Add<Auto, string, AutoGenerator>(auto => auto.Name);
-            _faker = new MainFaker(_config);
-        }
-
-        [TestMethod]
-        public void CreateAuto()
-        {
-            Auto auto = _faker.Create<Auto>();
-            Assert.AreEqual(auto.Name.GetType(), typeof(string));
-            Assert.AreEqual(auto.Cost.GetType(), typeof(int));
-        }
 
         [TestMethod]
         public void Cycle()
