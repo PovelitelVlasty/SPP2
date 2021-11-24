@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\TestProject1\\TestProject1.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Faker\\Faker.csproj": {
+                "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Faker\\Faker.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Faker\\Faker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Faker\\Faker.csproj",
+        "projectName": "Faker",
+        "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Faker\\Faker.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Faker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\PluginInterface\\PluginInterface.csproj": {
+                "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\PluginInterface\\PluginInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\PluginInterface\\PluginInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\PluginInterface\\PluginInterface.csproj",
+        "projectName": "PluginInterface",
+        "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\PluginInterface\\PluginInterface.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\PluginInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\TestProject1\\TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\TestProject1\\TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\TestProject1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Application\\Application.csproj": {
+                "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\bin\Debug\net5.0\IntGenerator.deps.json
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\bin\Debug\net5.0\IntGenerator.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\bin\Debug\net5.0\ref\IntGenerator.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\bin\Debug\net5.0\IntGenerator.pdb
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\bin\Debug\net5.0\PluginInterface.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\bin\Debug\net5.0\PluginInterface.pdb
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\obj\Debug\net5.0\IntGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\obj\Debug\net5.0\IntGenerator.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\obj\Debug\net5.0\IntGenerator.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\obj\Debug\net5.0\IntGenerator.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\obj\Debug\net5.0\IntGenerator.csproj.CopyComplete
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\obj\Debug\net5.0\IntGenerator.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\obj\Debug\net5.0\ref\IntGenerator.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\obj\Debug\net5.0\IntGenerator.pdb

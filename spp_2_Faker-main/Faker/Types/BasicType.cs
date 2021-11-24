@@ -22,7 +22,7 @@ namespace Faker.Types
             _basicTypes.Add(new BasicChar());
             _basicTypes.Add(new BasicShort());
             _basicTypes.Add(new BasicUShort());
-            _basicTypes.Add(GetPlugin(@"C:\Users\nikst\source\repos\Faker\IntGenerator\bin\Debug\net5.0\IntGenerator.dll"));
+            _basicTypes.Add(GetPlugin(@"D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\IntGenerator\bin\Debug\net5.0\IntGenerator.dll"));
             _basicTypes.Add(new BasicUInt());
             _basicTypes.Add(new BasicLong());
             _basicTypes.Add(new BasicULong());
@@ -30,7 +30,7 @@ namespace Faker.Types
             _basicTypes.Add(new BasicDouble());
             _basicTypes.Add(new BasicDecimal());
             _basicTypes.Add(new BasicString());
-            _basicTypes.Add(GetPlugin(@"C:\Users\nikst\source\repos\Faker\DateGenerator\bin\Debug\net5.0\DateGenerator.dll"));
+            _basicTypes.Add(GetPlugin(@"D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\bin\Debug\net5.0\DateGenerator.dll"));
         }
 
         public List<BasicInterface> BasicTypes

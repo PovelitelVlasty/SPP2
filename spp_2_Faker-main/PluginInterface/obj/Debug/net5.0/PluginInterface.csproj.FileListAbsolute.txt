@@ -1,0 +1,12 @@
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\bin\Debug\net5.0\PluginInterface.deps.json
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\bin\Debug\net5.0\PluginInterface.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\bin\Debug\net5.0\ref\PluginInterface.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\bin\Debug\net5.0\PluginInterface.pdb
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\obj\Debug\net5.0\PluginInterface.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\obj\Debug\net5.0\PluginInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\obj\Debug\net5.0\PluginInterface.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\obj\Debug\net5.0\PluginInterface.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\obj\Debug\net5.0\PluginInterface.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\obj\Debug\net5.0\PluginInterface.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\obj\Debug\net5.0\ref\PluginInterface.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\PluginInterface\obj\Debug\net5.0\PluginInterface.pdb

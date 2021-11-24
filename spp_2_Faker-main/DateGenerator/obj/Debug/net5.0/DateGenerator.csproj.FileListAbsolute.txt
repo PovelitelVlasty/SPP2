@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\bin\Debug\net5.0\DateGenerator.deps.json
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\bin\Debug\net5.0\DateGenerator.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\bin\Debug\net5.0\ref\DateGenerator.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\bin\Debug\net5.0\DateGenerator.pdb
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\bin\Debug\net5.0\PluginInterface.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\bin\Debug\net5.0\PluginInterface.pdb
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\DateGenerator.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\DateGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\DateGenerator.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\DateGenerator.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\DateGenerator.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\DateGenerator.csproj.CopyComplete
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\DateGenerator.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\ref\DateGenerator.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\DateGenerator\obj\Debug\net5.0\DateGenerator.pdb

@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "PluginInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PluginInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PluginInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginInterface/1.0.0": {
+      "type": "project",
+      "path": "../PluginInterface/PluginInterface.csproj",
+      "msbuildProject": "../PluginInterface/PluginInterface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "PluginInterface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\IntGenerator\\IntGenerator.csproj",
+      "projectName": "IntGenerator",
+      "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\IntGenerator\\IntGenerator.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\IntGenerator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\PluginInterface\\PluginInterface.csproj": {
+              "projectPath": "D:\\OneDrive\\Рабочий стол\\СПП1_2_5\\2\\spp_2_Faker-main\\PluginInterface\\PluginInterface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

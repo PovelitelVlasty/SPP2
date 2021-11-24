@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\bin\Debug\net5.0\Faker.deps.json
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\bin\Debug\net5.0\Faker.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\bin\Debug\net5.0\ref\Faker.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\bin\Debug\net5.0\Faker.pdb
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\bin\Debug\net5.0\PluginInterface.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\bin\Debug\net5.0\PluginInterface.pdb
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\Faker.csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\Faker.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\Faker.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\Faker.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\Faker.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\Faker.csproj.CopyComplete
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\Faker.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\ref\Faker.dll
+D:\OneDrive\Рабочий стол\СПП1_2_5\2\spp_2_Faker-main\Faker\obj\Debug\net5.0\Faker.pdb
